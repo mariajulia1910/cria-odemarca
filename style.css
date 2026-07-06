@@ -1,0 +1,344 @@
+* {
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    background-color: #b47d7d;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    display: flex;
+    margin-left: 500px;
+    list-style: none;
+
+}
+
+li {
+    box-sizing: border-box;
+    margin: 10px;
+    list-style: none;
+
+
+}
+
+.logo {
+    width: 170px;
+    height: 170px;
+    margin-top: -60px;
+}
+
+#promoçoes {
+
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+
+}
+
+.kitpincéis {
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+
+}
+
+#descrição {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.paletasombra {
+    width: 250px;
+    height: 250px;
+
+    box-sizing: border-box;
+    margin: 30px;
+
+
+}
+
+.gloss {
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+
+}
+
+#sec02 {
+    width: 100%;
+}
+
+#imagens {
+    display: flex;
+    box-sizing: border-box;
+    margin: 30px;
+    margin-left: 450px;
+    margin-top: 110px;
+}
+
+#rodapé{
+    background-color: #b47d7d;
+    text-align: center;
+    margin-top: 176px;
+}
+
+#QuemSomos{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+}
+
+#texto{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 20px;
+}
+
+.rimel{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+
+}
+
+.esponjas{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+
+}
+
+.gloss{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+
+}
+
+.pocompacto{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+
+}
+
+.corretivo{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+
+}
+
+.batommatte{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+
+}
+
+.paletadeblush{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+
+}
+
+.paletadesombra{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+
+}
+
+.base{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+
+}
+
+.pinceis{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+
+}
+
+#imagens2{
+    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr
+                            1fr 1fr 1fr 1fr;
+    width: 100%;
+    margin-left: 250px;
+    margin-top: 110px;
+    flex-wrap: wrap;
+}
+
+#imagens3{
+    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 
+                            1fr 1fr 1fr ;
+    margin-left: 250px;
+    margin-top: 110px;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+#descrição2{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -400px;
+}
+
+#secpd{
+    height: 200vh;
+    flex-wrap: wrap;
+    margin-left: -100px;
+    width: 80%;
+}
+
+.gloss01{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+}
+
+#texto02{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 20px;
+}
+
+.base01{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+}
+
+#texto03{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 20px;
+}
+
+.batommatte02{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+}
+
+#texto05{
+    margin-top: 100px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.base02{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+}
+
+#texto05{
+    margin-top: 100px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.corretivo01{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin: 30px;
+}
+
+#texto06{
+    margin-top: 100px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+#imagem03{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+}
+
+#Contato{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+}
+
+.contato01{
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin-left: 150px;
+}
+
+#Cadastro{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+}
+
+label{
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+button{
+    width: 100%;
+    margin-top: 25px;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background-color: #c785d6;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
